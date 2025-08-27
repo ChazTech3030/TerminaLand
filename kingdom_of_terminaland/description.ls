@@ -1,0 +1,1 @@
+You find yourself at the entrance of a village. At the gate is a guard.

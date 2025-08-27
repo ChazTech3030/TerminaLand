@@ -1,0 +1,64 @@
+kingdom_of_terminaland/
+├── village_square/
+│   ├── town_crier.npc          # Gives quests and hints
+│   ├── notice_board.txt        # Contains current objectives
+│   ├── healing_potion.item     # Restores health/lives
+│   └── merchant_goods/
+│       ├── rusty_sword.item
+│       ├── leather_boots.item
+│       └── bread_loaf.item
+│
+├── enchanted_forest/
+│   ├── wise_owl.npc           # Provides riddles and wisdom
+│   ├── forest_sprite.npc      # Gives magical hints
+│   ├── magic_berries.item     # Special consumable
+│   ├── ancient_scroll.txt     # Contains lore or commands to learn
+│   └── hidden_grove/
+│       ├── unicorn.npc        # Rare encounter
+│       ├── rainbow_crystal.item
+│       └── fountain_of_wisdom.txt
+│
+├── dark_caves/
+│   ├── cave_troll.npc         # Mini-boss encounter
+│   ├── glowing_mushroom.item  # Provides light/visibility
+│   ├── treasure_chest.txt     # Contains rewards info
+│   ├── bat_swarm.npc          # Combat encounter
+│   └── depths/
+│       ├── dragon_sleeping.npc
+│       ├── golden_chalice.item
+│       ├── dragon_hoard.txt   # Inventory of treasures
+│       └── ancient_map.item
+│
+├── wizard_tower/
+│   ├── gandalf_the_grep.npc   # Teaches text searching
+│   ├── spell_book.txt         # Contains "spells" (commands)
+│   ├── magic_wand.item        # Required for certain actions
+│   ├── crystal_ball.item      # Shows hidden files
+│   └── laboratory/
+│       ├── brewing_cauldron.npc
+│       ├── mysterious_potion.item
+│       ├── recipe_notes.txt
+│       └── ingredients/
+│           ├── phoenix_feather.item
+│           ├── mandrake_root.item
+│           └── stardust.item
+│
+├── royal_castle/
+│   ├── king_bash.npc          # Final quest giver
+│   ├── royal_guard.npc        # Blocks access initially
+│   ├── crown_jewels.item      # Ultimate treasure
+│   ├── royal_decree.txt       # Final challenge/graduation
+│   └── throne_room/
+│       ├── golden_throne.txt  # Victory message
+│       ├── scepter_of_power.item
+│       └── hall_of_fame.txt   # High scores/achievements
+│
+├── player_inventory/          # Special directory for player items
+│   ├── health_status.txt
+│   ├── current_quest.txt
+│   └── collected_items/
+│
+└── game_manual/
+    ├── commands_guide.txt     # Tutorial for ls, cd, cat, etc.
+    ├── quest_log.txt          # Track completed objectives
+    └── hints_and_tips.txt     # Help when stuck

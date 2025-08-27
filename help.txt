@@ -1,0 +1,9 @@
+Welcome to TerminaLand, a game designed to help you learn and understand how to utilise commands in the terminal. The aim of the game is to defeat the Evil Wizard by any means necessary!
+
+To begin to understand what capabilities you currently have, run the "commands" command in the prompt. From there, it is up to you to being your investigation into TerminaLand.
+
+Be sure to investigate everything and anything that you come across. You may find that you need to revisit locations you have already visited once you have unlocked new commands.
+
+Good Luck!
+
+<ASCII ART OF A SCROLL AROUND THE TEXT??>
